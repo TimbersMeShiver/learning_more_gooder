@@ -1,1 +1,129 @@
-microprediction_deck    test
+A micromanager sets out to solve on a microscopic scale and an ongoing basis an economic problem that is rather subtle - one certain to defy a singular solution. | The problem is how to produce as much predictive power as possible at the lowest possible cost.
+In a prediction web, every node is a | competitively predicted stream of data.
+In the context of limit order books (stock exchanges), what is the phenomenon called when there is serial correlation in price relative to the mid? | Bid-offer bounce
+The data revealed in a history of trades of different types is subject to an asymmetric pattern of noise, primarily due to | The possibility of winner's curse.
+What is the primary cause of the asymmetric pattern of noise in the data revealed by a history of trades of different types? | The possibility of winner's curse.
+In limit order books (stock exchanges), bid-offer bounce refers to the phenomenon of | serial correlation in price relative to the mid.
+What does the term "market microstructure" refer to? | The study of the process and mechanics of how financial markets operate, including the trading mechanisms, order placement, price formation, and market liquidity.
+Market microstructure focuses on understanding | the process and mechanics of financial markets, including trading mechanisms, order placement, price formation, and market liquidity.
+What is the scope of market microstructure? | It encompasses the study of trading processes, order flow, market participants, and how market conditions impact price discovery and market efficiency.
+Market microstructure examines | the intricacies of how financial markets function, including the dynamics of order execution, market transparency, and the impact of trading strategies on market outcomes.
+How can the expected outcome of a match be calculated in the Elo rating system? | By using the formula: Expected Outcome = 1 / (1 + 10^((Opponent Rating - Player Rating) / 400))
+In a chess match, Player A has an Elo rating of 1500 and Player B has an Elo rating of 1600. What is the expected outcome for Player A? | The expected outcome for Player A is approximately 0.359, meaning Player A is expected to win the match 35.9% of the time based on the Elo ratings.
+After a match, how are the Elo ratings updated for the players? | New Rating = Old Rating + K * (Actual Outcome - Expected Outcome), where K is a constant determining the magnitude of rating adjustments.
+Player A with an initial Elo rating of 1500 wins a match against Player B. How does Player A's Elo rating change? | Player A's Elo rating increases and becomes approximately 1521 after the match.
+How are the constants (400, 10, 32) in the Elo rating system chosen? | The constants are empirically determined and fine-tuned based on historical data and practical considerations.
+Why is the constant 400 used in the Elo rating system? | The constant 400 ensures that a 400-point rating difference corresponds roughly to a 10:1 expected outcome ratio between players.
+What is the purpose of the base number 10 in the Elo rating system? | The base number 10 scales the rating difference between players and provides a balanced expected outcome range between 0 and 1.
+Why is the constant 32 used in the Elo rating system for rating adjustments? | The constant 32 determines the magnitude of rating adjustments and represents the typical amount of Elo rating change for an individual match.
+What is the scope of market microstructure? | The scope of market microstructure covers the study of trading mechanisms, order placement techniques, price formation dynamics, and market liquidity in financial markets.
+What is market liquidity in the context of market microstructure? | Market liquidity refers to the ease with which an asset can be bought or sold in the market without significantly impacting its price. It relates to the depth and efficiency of the market.
+'Lubricating' Trade | The process of reducing trade frictions to make trade easier and more efficient. This can involve negotiating lower tariffs, improving logistics, streamlining regulations, and hedging currency risk.
+Currency Exchange in Trade | The process of converting one currency to another in order to conduct trade. Transaction costs and exchange rate risk can add to the cost of trade and contribute to trade friction.
+Regulations in Trade | Rules set by governments or international bodies that govern how goods are produced, sold, and shipped. Compliance with these regulations can be costly and time-consuming, adding to trade friction.
+Transportation Costs | The costs associated with moving goods from one place to another. In international trade, these costs can include freight charges, insurance, and customs fees, and they contribute to trade friction.
+Tariffs | Taxes imposed by a government on imported or exported goods. They increase the cost of imported goods and are a form of trade friction.
+Trade Friction | Refers to the barriers and costs associated with conducting trade between countries. These can be tariff or non-tariff in nature and include things like import and export taxes, quotas, regulations, and transportation costs.
+Ad Valorem Tariffs | Tariffs calculated as a percentage of the value of the imported goods. Increase trade friction by raising costs proportionally to value.
+Specific Tariffs | Tariffs charged as a fixed amount per unit of import. Increase trade friction by raising costs regardless of value.
+Compound Tariffs | Tariffs that combine ad valorem and specific elements. Increase trade friction by raising costs in a complex, multi-faceted manner.
+Sea Freight | Transportation of goods by sea. Trade friction arises from long transit times, weather-related delays, and port fees.
+Air Freight | Transportation of goods by air. Trade friction arises from higher costs, weight limitations, and airport fees.
+Product Standards | Regulations defining specific characteristics that a product must meet. Increase trade friction by requiring compliance checks and certifications.
+Quotas | Limits on the quantity of a certain good that can be imported or exported. Increase trade friction by restricting volume of trade.
+Embargoes | Complete bans on trade with a particular country or of a particular product. Represent an extreme form of trade friction.
+Spot Exchange | Immediate currency exchange at the current market rate. Trade friction arises from rate fluctuations and transaction fees.
+Forward Contracts | Agreement to exchange currencies at a future date at a predetermined rate. Mitigate trade friction by hedging against future rate fluctuations.
+Container Shipping | Sea freight method using standardized containers. Trade friction arises from container handling and stacking costs.
+Bulk Shipping | Sea freight method for loose, unpackaged goods like oil or grain. Trade friction arises from specialized handling and storage requirements.
+Mandatory Standards | Product standards that are legally required for sale. Increase trade friction by necessitating compliance checks and potential redesigns.
+Voluntary Standards | Product standards that are not legally required, but may be demanded by consumers or retailers. Increase trade friction by creating market entry barriers.
+Outright Forward Contract | Agreement to buy or sell a currency at a fixed rate on a future date. Mitigates trade friction by providing rate certainty.
+Swap Forward Contract | Agreement to exchange currencies at a fixed rate on a future date, then reverse the exchange later. Mitigates trade friction by providing rate certainty over multiple transactions.
+Option Dated Forward Contract | Agreement giving the option to exchange currencies at a fixed rate on a future date. Mitigates trade friction by providing rate certainty and flexibility.
+20-Foot Container | Standard size container in shipping. Trade friction arises from limited volume capacity, suitable for dense goods.
+40-Foot Container | Double the length of a 20-foot container. Trade friction arises from higher handling and transportation costs, suitable for lighter, voluminous goods.
+Refrigerated Container | Container with temperature control. Trade friction arises from higher costs and energy requirements, necessary for perishable goods.
+Safety Standards | Mandatory standards ensuring a product does not harm users. Increase trade friction by necessitating safety tests and certifications.
+Environmental Standards | Mandatory standards ensuring a product does not harm the environment. Increase trade friction by necessitating environmental impact assessments and certifications.
+Call Option | Option giving the holder the right to buy a currency at a fixed rate on a future date. Mitigates trade friction by providing rate certainty and upside potential.
+Put Option | Option giving the holder the right to sell a currency at a fixed rate on a future date. Mitigates trade friction by providing rate certainty and downside protection.
+Electricity Market Access | Ability to sell electricity across borders. Trade friction arises from differences in grid standards, regulations, and tariffs.
+Grid Interconnection | Physical linking of electricity grids across borders. Trade friction arises from technical challenges, costs, and regulatory hurdles.
+Statistical Assessment | Evaluation of relationships based on statistical analysis or measures.
+Rewards Given | Positive reinforcement provided to other micromanagers for successful actions or outcomes.
+Micromanager Abilities | Prediction ability, value addition via feature creation, transformation, classification, anomaly detection, recommendation etc.
+Prediction ability | Micromanager's capacity to foresee outcomes based on data models.
+Feature Creation | Generation of new, predictive attributes from existing data.
+Transformation | Conversion or modification of data to improve model interpretability or performance.
+Classification | Categorization of data into predetermined groups.
+Anomaly Detection | Identification of data points that significantly deviate from the norm.
+Recommendation | Suggestions based on patterns, associations, or predicted user preferences in data.
+Initiation of Relationships | Micromanager's ability to establish connections with other micromanagers.
+Implicit Relationship | Pre-existing, not explicitly stated relationship between micromanagers.
+Explicit Relationship | Clearly defined and initiated relationship between micromanagers.
+Optimization of Relationships | Ability to improve relationships based on rewards and statistical assessment.
+Rewards Received | Positive reinforcement for successful actions or outcomes.
+Micromanager Categories | Precision Trader, Race Organiser, Collider, Crawler, Arbitrageur.
+Precision Trader | Buys streams of predictions, transforms them into a more accurate prediction stream, sells it. Trades in statistical precision.
+Race Organiser | Establishes a competitive environment where prediction models compete, improves prediction quality through competition.
+Collider | Identifies overlaps or conflicts between prediction models, enhances collective predictions.
+Crawler | Combs through data exhaustively, unearths overlooked insights for better predictions.
+Arbitrageur | Identifies discrepancies between different predictions, leverages to create a superior model.
+Coefficient Attenuation | Biasing of estimated regression coefficient towards zero due to measurement errors in independent variables. Leads to underestimation of true relationships.
+Precision Trader Mechanism | Buys predictions, uses a transformation model to create a new prediction stream, trades on accuracy improvement.
+Race Organiser Mechanism | Provides a platform for models to compete, rewards best performers, spurring the development of superior models.
+Crawler Mechanism | Comprehensive data exploration, finds obscure patterns contributing to target prediction.
+Arbitrageur Mechanism | Combines multiple predictions for a more comprehensive model, exploits prediction discrepancies.
+Coefficient Attenuation Impact | Leads to underestimation of true predictive power, correction methods required for more accurate final prediction stream.
+Race Organiser Analogy | Manager for a sporting event selecting cost-effective athletes to invite, akin to selecting prediction models based on cost-effectiveness.
+Submodularity | Property of set functions capturing diminishing returns; incremental benefit of adding an item decreases as the set grows.
+Mathematical Definition of Submodularity | For any subsets A and B of a set N, if A is a subset of B and x is a member of N but not B: F(A ∪ {x}) - F(A) ≥ F(B ∪ {x}) - F(B).
+Submodular Optimization | Finding the set that maximizes (or minimizes) a submodular function, subject to certain constraints.
+Race Organiser as Submodular Optimizer | Selects best set of prediction models (athletes) maximizing total performance (predictive accuracy), subject to available budget (invitation costs).
+Practical Implications of Submodularity | Helps model real-world phenomena like diminishing returns, makes certain optimization problems more tractable.
+Examples of Submodular Functions | Coverage functions in sensor placement, information gain in machine learning, cut capacities in network design.
+Examples of Submodular Optimization | Sensor placement to maximize coverage, feature selection in machine learning, network design to minimize cost.
+Submodular Optimization in Race Organiser Role | Determines optimal mix of prediction models to invite for highest total performance within budget constraints.
+Greedy Algorithm for Submodular Maximization | Iteratively add element with highest marginal gain to the solution; provides good approximate solutions for certain submodular problems.
+Monotonicity in Submodular Optimization | When adding an element never decreases the value of the function. If a function is both submodular and monotone, a simple greedy algorithm guarantees a solution within (1-1/e) of the optimal.
+Constraints in Submodular Optimization | May include cardinality constraints (limit on the number of elements in the set), matroid constraints (generalization of linear independence), knapsack constraints (elements with costs, total cost limit), etc.
+Submodular Function Minimization | Polynomial time solvable, unlike general submodular maximization; algorithms include Fujishige's Minimization Algorithm and Queyranne's Algorithm.
+Multifidelity Optimization | Approach to optimization that balances accuracy and computational cost by using a combination of models of varying fidelity.
+Market Clearing Mechanism | Process or method where supply and demand in a market are balanced through adjustments in price. Ensures market efficiency; all buyers have found sellers and vice versa.
+Quarantined Balance | Method of setting aside a portion of total balance (money and time) used to calculate actual compensation for suppliers. Protects against rapid resource depletion, ensures stable, manageable compensation process.
+Draw-down Hitting Zero | Investor starts with $1000 portfolio. After a series of losses (20%, 50%, 100%), portfolio value decreases to $0. When draw-down hits zero, no capital left for further investments. In predictive systems with compensation, no balance left for payouts; need for additional resources or cessation of operation.
+Near-the-pin Collider | An incremental reward system in a predictive model triggered by the alignment between arriving ground truth and quarantined distributional predictions. It rewards the accuracy of predictions: the closer to the ground truth, the greater the reward.
+Role of Collider in prediction market | Receives prediction orders, collides to create aggregate distribution - market forecast, reveals belief diversity, identifies anomalies
+Nature of Colliders passivity | Doesn't generate predictions, actively synthesizes market's collective forecasting power
+What is bid-offer spread? | Difference between buyers' purchase price (bid) and sellers' sale price (ask or offer) in an asset.
+How does bid-offer spread relate to market liquidity? | Narrow bid-offer spread indicates higher liquidity, while wider spread suggests lower liquidity.
+How does bid-offer spread impact transaction costs? | Wider bid-offer spreads generally increase transaction costs, as buyers pay more and sellers receive less.
+What is a totalizator? | System in gambling, notably horse racing, where bets of a type are pooled; after house takeout, remaining money is distributed among winners.
+What is another term for totalizator? | Pari-mutuel betting.
+How are payout odds determined in totalizator betting? | Payout odds fluctuate based on betting patterns; calculated by dividing the total pool by the amount wagered on winning outcome.
+What is active market making? | The practice of providing liquidity to financial markets by continuously offering to buy (bid) and sell (offer) securities.
+What role do market makers play in financial markets? | They ensure there's always a buyer and seller for investors, thereby contributing to overall liquidity and efficiency of markets.
+How do market makers profit? | They aim to profit from the bid-offer spread.
+What strategies might traders employ around bid-offer spreads? | High frequency traders might exploit minute bid-offer spread differences for arbitrage opportunities.
+What implications does totalizator betting have for gamblers? | Since odds fluctuate, strategic timing of bets may impact potential payouts.
+Combinatorial Parimutuel Markets (CPMs) | Concept derived from parimutuel betting principles applied to financial derivatives by Robert Baron and Eva Lange, involving bundling of underlying states and combinatorial clearing.
+Bundling of Underlying States in CPMs | Equivalent to betting types in parimutuel system, but applied to financial instruments. Example: betting on a bundle of stocks to rise, or a specific bond yield to fall within a certain range.
+Combinatorial Clearing in CPMs | Mechanism determining prices and quantities of each bundle at the close of betting, based on total bet amount on each bundle.
+Financial Applications of CPMs | Primarily in pricing complex derivatives and exotic options, suitable for situations with high uncertainty or a wide range of possible outcomes.
+Pros and Cons of CPMs | Pros: Pricing variety of financial products, incorporating market sentiment in real-time. Cons: Requires sufficient liquidity and participation, complexity may deter some market participants.
+Parimutuel vs. Fixed-Odds Markets | Parimutuel markets allow for flexible odds responding to crowd's perception of probabilities, with bettors bearing the risk. Contrast to fixed-odds markets where bookmakers set odds and bear risk of incorrect pricing.
+Fluctuating Odds in Parimutuel Betting | Unlike fixed-odds betting, parimutuel betting odds fluctuate in real-time based on the distribution of money bet on each possible outcome. Final odds aren't determined until betting closes.
+Meaning of "Parimutuel" | French for "mutual betting", parimutuel refers to bettors essentially betting against each other rather than the house, as the payoff depends on the total amount bet and the number of winners.
+Bet Types in Parimutuel Betting | Parimutuel betting often includes bets beyond predicting the outright winner, such as 'place', 'show', or 'exacta' bets. Each bet type typically has a separate betting pool.
+House Takeout in Parimutuel Betting | House takeout is the portion of the betting pool kept by the house (like a racetrack or betting agency) to cover costs and profit. Its size can significantly impact potential payouts.
+Bettor Strategy in Parimutuel Betting | Bettors consider the outcome likelihood and how they believe the public will wager. This is called 'playing the tote board', trying to identify over or under bet outcomes based on displayed odds.
+Tote Board | An electronic board displaying the odds for each potential outcome in a parimutuel betting event, updating in real-time as bets are placed and pools change. It often displays the total amount bet on each outcome.
+Dividend Calculation and Breakage in Parimutuel Betting | Winnings are calculated by dividing the total pool (after house takeout) by the total amount bet on the winning outcome(s), rounded down to a set denomination, with the remainder (breakage) going to the house.
+Mathematical Calculation of Parimutuel Odds | Parimutuel odds are calculated by dividing the total amount bet on all outcomes by the total bet on a specific outcome, then subtracting one. The process repeats as new bets are made.
+Impact of House Takeout on Parimutuel Payouts | House takeout reduces the total payout pool in parimutuel betting. A higher takeout reduces potential winnings for bettors but increases revenue for the house.
+Concept of Overlays and Underlays in Parimutuel Betting | Overlays are outcomes perceived as having higher actual odds than the tote board suggests, while underlays have lower. Bettors aim to identify overlays for potential value.
+Breakage in Parimutuel Payouts | Breakage is the rounding down of parimutuel payouts to the nearest pre-set denomination, with the remainder kept by the house. This can subtly increase house advantage.
+History of Parimutuel Betting | Parimutuel betting was first introduced in France in the late 19th century by Pierre Oller. It became popular worldwide, especially for horse racing, and is also used in jai alai, greyhound racing, and some lotteries.
+Avoid Popular Numbers | Moffit suggests avoiding commonly chosen numbers to reduce the chance of having to split the jackpot.
+Consider High Numbers | Moffit advises selecting numbers on the higher end of the available range to decrease the likelihood of sharing the prize.
